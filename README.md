@@ -1,0 +1,2 @@
+# Small-Library
+A java program made with Swing interface that extracts books from a book list in a file and stores it in an SQL database, which will then be displayed for the user. The program will also extract borrowers from another file and store them as well. When starting the program, it will then ask for borrower ID. If it finds the borrower ID in the database, the user will get access to the list of books stored in the database, which the user then can choose from to borrow books.
